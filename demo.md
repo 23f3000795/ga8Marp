@@ -60,3 +60,24 @@ This means the time complexity of the algorithm grows at a rate of $n \log n$.
 
 
 ![bg](images/bg_img.jpg)
+
+---
+
+
+# Title Slide
+
+<!-- _backgroundColor: #123456 -->
+
+Slide with custom background
+
+<!-- _color: red -->
+
+Red text
+
+<!-- _footer: *Page footer* -->
+
+Content with footer
+
+<!-- _header: **Header** -->
+
+Content with header
