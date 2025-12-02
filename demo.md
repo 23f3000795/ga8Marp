@@ -4,7 +4,37 @@ theme: custom
 paginate: true
 
 ---
+<style>
+  /* Custom styles for the slide deck */
+  section {
+    background-color: #f7f7f7; /* Light grey background */
+    color: #333;               /* Dark text color */
+    font-family: 'Arial', sans-serif;
+  }
 
+  h1 {
+    color: #3498db;            /* Blue color for H1 */
+    font-size: 3em;            /* Larger font size for main title */
+  }
+
+  h2 {
+    color: #2ecc71;            /* Green color for subheadings */
+    font-size: 2em;            /* Slightly larger than normal text */
+  }
+
+  p {
+    line-height: 1.6;
+    font-size: 1.2em;
+  }
+
+  
+
+  /* Custom styles for page numbers */
+  .marp-pagination {
+    font-size: 0.8em;
+    color: #888;
+  }
+</style>
 <!-- Slide 1 -->
 # Product Documentation
 
@@ -56,8 +86,6 @@ This means the time complexity of the algorithm grows at a rate of $n \log n$.
 ---
 
 <!-- Slide 6 -->
-## Background Image
-
 
 ![bg](images/bg_img.jpg)
 
