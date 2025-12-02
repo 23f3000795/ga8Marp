@@ -42,7 +42,25 @@ In this slide, we will demonstrate custom theme and styling for Marp.
 
 ### Example Custom Styling
 
+<!-- _class: lead -->
 
+# Title Slide
+
+<!-- _backgroundColor: #123456 -->
+
+Slide with custom background
+
+<!-- _color: red -->
+
+Red text
+
+<!-- _footer: *Page footer* -->
+
+Content with footer
+
+<!-- _header: **Header** -->
+
+Content with header
 
 ---
 
