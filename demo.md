@@ -64,20 +64,7 @@ This means the time complexity of the algorithm grows at a rate of $n \log n$.
 ---
 
 
-# Title Slide
-
-<!-- _backgroundColor: #123456 -->
-
-Slide with custom background
-
-<!-- _color: red -->
-
-Red text
-
-<!-- _footer: *Page footer* -->
-
-Content with footer
-
-<!-- _header: **Header** -->
-
-Content with header
+### Explanation of Marp Directives Used:
+1. **`marp: true`**: Tells Marp to treat this as a slide deck.
+2. **`theme: default`**: Specifies the default theme for the presentation. You can replace this with other built-in themes like `gaia`, `uncover`, or create your own custom theme.
+3. **`paginate: true`**: Enables pagination, so each slide will have a page number.
