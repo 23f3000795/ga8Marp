@@ -5,25 +5,20 @@ theme: default
 paginate: true
 title: "Custom Styled Presentation"
 transition: slide
-style: |
-  section {
-    background-color: #f7f7f7;
-    font-family: 'Arial', sans-serif;
-  }
-  h1 {
-    color: #3498db;
-    font-size: 3em;
-  }
-  h2 {
-    color: #2ecc71;
-    font-size: 2.5em;
-  }
-  p {
-    color: #333;
-    font-size: 1.2em;
-  }
+
 ---
 
+<style>
+  blockquote {
+    font-style: italic;
+  }
+  section {
+    background-image: url('images/bg_img.jpg');
+    background-repeat: no-repeat;
+    background-position: top 20px right 20px;
+    background-size: 80px auto;
+  }
+</style>
 <!-- Slide 1 -->
 # Product Documentation
 
