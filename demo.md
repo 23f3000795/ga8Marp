@@ -1,40 +1,31 @@
 ---
 marp: true
-theme: custom
+theme: default
 paginate: true
-
----
-<style>
-  /* Custom styles for the slide deck */
+background-color: #f0f0f0
+font-size: 1.2em
+title: "Custom Styled Presentation"
+transition: slide
+style: |
   section {
-    background-color: #f7f7f7; /* Light grey background */
-    color: #333;               /* Dark text color */
+    background-color: #f7f7f7;
     font-family: 'Arial', sans-serif;
   }
-
   h1 {
-    color: #3498db;            /* Blue color for H1 */
-    font-size: 3em;            /* Larger font size for main title */
+    color: #3498db;
+    font-size: 3em;
   }
-
   h2 {
-    color: #2ecc71;            /* Green color for subheadings */
-    font-size: 2em;            /* Slightly larger than normal text */
+    color: #2ecc71;
+    font-size: 2.5em;
   }
-
   p {
-    line-height: 1.6;
+    color: #333;
     font-size: 1.2em;
   }
 
-  
+---
 
-  /* Custom styles for page numbers */
-  .marp-pagination {
-    font-size: 0.8em;
-    color: #888;
-  }
-</style>
 <!-- Slide 1 -->
 # Product Documentation
 
