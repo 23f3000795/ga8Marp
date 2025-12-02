@@ -42,20 +42,7 @@ In this slide, we will demonstrate custom theme and styling for Marp.
 
 ### Example Custom Styling
 
-```css
-section {
-  font-family: "Arial", sans-serif;
-  color: #333;
-}
 
-h1 {
-  color: #2c3e50;
-}
-
-h2 {
-  color: #34495e;
-}
-```
 
 ---
 
